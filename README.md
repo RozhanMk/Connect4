@@ -7,3 +7,5 @@ You can play with the model which is based on minimax or alpha-beta algorithm.
 # Board
 ![](https://github.com/RozhanMk/Connect4/blob/master/images/board.png)
 
+# Run the project
+Run the "AI_project.py" file.
